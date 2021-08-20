@@ -20,8 +20,8 @@
 
 <div>
   <p align="center">
-    <img alt="Imagem Principal" src="https://avatars.githubusercontent.com/u/67563562?v=4"/>
-    <img alt="Imagem Principal" src="https://avatars.githubusercontent.com/u/67563562?v=4"/>
+    <img alt="Imagem Principal" width="280px" src="https://avatars.githubusercontent.com/u/67563562?v=4"/>
+    <img alt="Imagem Principal" width="280px" src="https://avatars.githubusercontent.com/u/67563562?v=4"/>
   </p>
 </div>
 <br>
